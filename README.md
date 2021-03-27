@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bryanbarreto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bryanbarreto" height="30" width="40" /></a>
 <a href="https://medium.com/@bryan.barreto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bryan.barreto" height="30" width="40" /></a>
-<a href="https://discord.gg/BryanBarreto#5282" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="412821699730472960" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/412821699730472960/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="412821699730472960" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
